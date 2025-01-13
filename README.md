@@ -19,6 +19,6 @@ npm install
 
 ## Run the program:
 
-- Android `npm run android`
-- IOS `npm run ios`
-- Web `npm run web`
+- Android ```npm run android```
+- IOS ```npm run ios```
+- Web ```npm run web```
